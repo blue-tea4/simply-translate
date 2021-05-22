@@ -1,7 +1,9 @@
 # simply-translate
-OCR translator 
+OCR translator
 
-hen run the program will ask the user for an image path. For best results it should be the compleat path and have ‘\\’ between all the folders
+Hello! This is a school project and is definetly not as refined as other text from image translators. 
+
+When run the program will ask the user for an image path. For best results it should be the compleat path and have ‘\\’ between all the folders
 Example:  C:\\Users\\cooluser\\Desktop\\First_test.png
 It will next ask for the original language and ending language. The user should input the abbreviations for the languages supported found below 
 
@@ -13,3 +15,7 @@ Libraries(Newest versions as of May 2021):
 OpenCV
 Tesseract
 googletrans
+
+
+
+The OCR is not perfect so you might have some trouble with it. You can change the parameters on line 26 if you are having problems with how it is being read. 
