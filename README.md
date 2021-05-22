@@ -1,7 +1,7 @@
 # simply-translate
 OCR translator
 
-Hello! This is a school project and is definetly not as refined as other text from image translators. 
+Hello! This is a school project and is definetly not as refined as other text from image translators. I only intend to keep this open for about a week so I can send my teacher a link to it. I might update this program in the future and open it up again once I have improved it. This was mostly a learning experience for me a someone who is fairly new to coding.  
 
 When run the program will ask the user for an image path. For best results it should be the compleat path and have ‘\\’ between all the folders
 Example:  C:\\Users\\cooluser\\Desktop\\First_test.png
